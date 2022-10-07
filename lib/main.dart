@@ -3,8 +3,7 @@ import 'package:image_share_ble/Pages/Blecode.dart';
 import 'dart:async';
 import 'dart:io';
 
-// import 'dart:typed_data';
-// import 'dart:ui' as ui;
+
 import 'package:share_plus/share_plus.dart';
 import 'package:image_picker/image_picker.dart';
 
@@ -23,6 +22,6 @@ void main() {
     },
   ));
 }
- 
+
 
 
