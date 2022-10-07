@@ -108,7 +108,7 @@ class _MyappState extends State<Myapp> {
                   ),   child: Text("BLE Configuration",style: TextStyle(
                     fontSize: 20,
                   ),),
-                    
+
                   ),
                 ],
               ),
