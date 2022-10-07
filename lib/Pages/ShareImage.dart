@@ -6,7 +6,7 @@ import 'dart:io';
 
 
 class Myapp extends StatefulWidget {
-  // static GlobalKey _globalKey = GlobalKey();
+
   const Myapp({Key? key}) : super(key: key);
 
   @override
@@ -97,9 +97,7 @@ class _MyappState extends State<Myapp> {
                         ),
                       ) ,
                       icon: Icon(Icons.share),
-                      style: ButtonStyle(
 
-                      ),
 
                     ),
                   ),
